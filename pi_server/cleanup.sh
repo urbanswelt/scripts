@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 cd
 rm pi_serv_clean.sh pkgs.txt
 rm pkgs.txt
