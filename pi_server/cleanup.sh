@@ -1,3 +1,4 @@
+#Clean up Raspberry PI 
 cd
 rm pi_serv_clean.sh
 rm pkgs.txt
