@@ -1,4 +1,8 @@
 #!/bin/bash
+# cleanup - Cleaning a Raspberry PI Image to use it for a Server
+# latest images 2012-12-16-wheezy-raspbian from http://www.raspberrypi.org/downloads
+#
+# Last updated 2012-12-27
 # init
 function pause(){
    read -p "$*"
